@@ -1,5 +1,5 @@
 # interviewConnect
-Web app made with stremlit for SQL problem solving/coding 
+Web app made with stremlit for SQL online problem solving/coding 
 
 Features:
 Randomly selects MCQ and coding problems for every time when login
