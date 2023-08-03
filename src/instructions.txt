@@ -1,0 +1,78 @@
+[
+  {
+    "inst_title": "Test Format",
+    "inst_info": [
+      "1. The test consists of three sections: Multiple Choice Questions (MCQs), Coding Exercise, and Logical Reasoning.",
+      "2. Each section will have a separate set of instructions."
+    ]
+  },
+  {
+    "inst_title": "Time Limit:",
+    "inst_info": [
+      "1. The total duration of the test is 60 minutes.",
+      "2. Each section will have a specified time limit."
+    ]
+  },
+  {
+    "inst_title": "Navigational Instructions:",
+    "inst_info": [
+      "1. Use the \"Next\" and \"Previous\" buttons to navigate between questions.",
+      "2. You can skip a question and come back to it later."
+    ]
+  },
+  {
+    "inst_title": "Multiple Choice Questions (MCQs):",
+    "inst_info": [
+      "1. Select the most appropriate answer by clicking on the radio button next to the option.",
+      "2. You can select only one answer choice for each question."
+    ]
+  },
+  {
+    "inst_title": "Coding Exercise:",
+    "inst_info": [
+      "1. Write your code in the provided coding editor.",
+      "2. The coding language allowed is Python.",
+      "3. Click the \"Submit Code\" button when you are done."
+    ]
+  },
+  {
+    "inst_title": "Logical Reasoning:",
+    "inst_info": [
+      "1. Read each scenario carefully and choose the correct option.",
+      "2. You can select multiple answers for each question."
+    ]
+  },
+  {
+    "inst_title": "Submission Guidelines:",
+    "inst_info": [
+      "1. Once you have completed all the sections, click the \"Submit Test\" button to submit your responses.",
+      "2. Ensure you have attempted and submitted all questions before the time limit expires."
+    ]
+  },
+  {
+    "inst_title": "Honesty and Integrity:",
+    "inst_info": [
+      "1. Please do not use external resources or help from others during the test.",
+      "2. Plagiarism or cheating will result in disqualification."
+    ]
+  },
+  {
+    "inst_title": "Breaks and Pauses:",
+    "inst_info": [
+      "1. No breaks are allowed during the test. Please plan accordingly."
+    ]
+  },
+  {
+    "inst_title": "Support Contact:",
+    "inst_info": [
+      "If you encounter any technical issues or have questions related to the test, contact your interviewer."
+    ]
+  },
+  {
+    "inst_title": "Confidentiality and Data Privacy:",
+    "inst_info": [
+      "1. Your personal information and test results will be handled with strict confidentiality.",
+      "2. We comply with all data privacy regulations."
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+    "43831f206fb48fd02fb0b488daca8236": {
+        "page_script_hash": "43831f206fb48fd02fb0b488daca8236",
+        "page_name": "Candidate_Login",
+        "icon": "",
+        "script_path": "D:\\REV_ST\\Candidate Login.py"
+    },
+    "d54cfe4f03bb88eeb64ad01ac334ce5a": {
+        "page_script_hash": "d54cfe4f03bb88eeb64ad01ac334ce5a",
+        "page_name": "Multiple_Choise_Questions",
+        "icon": "",
+        "script_path": "D:\\REV_ST\\pages\\2_Multiple Choise Questions.py"
+    },
+    "5eb49e55aa9113de9be138e24a49aae8": {
+        "page_script_hash": "5eb49e55aa9113de9be138e24a49aae8",
+        "page_name": "Coding_Problems",
+        "icon": "",
+        "script_path": "D:\\REV_ST\\pages\\3_Coding Problems.py"
+    },
+    "2370f92f09c6bb5d86c029b065d72b1f": {
+        "page_script_hash": "2370f92f09c6bb5d86c029b065d72b1f",
+        "page_name": "Result",
+        "icon": "",
+        "script_path": "D:\\REV_ST\\pages\\4_Result.py"
+    }
+}

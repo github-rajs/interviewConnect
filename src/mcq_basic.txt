@@ -1,0 +1,302 @@
+[
+  {
+    "qid": 1,
+    "question": "What does SQL stand for?",
+    "options": ["Structured Question Language", "Structured Query Language", "Structured Query Logic", "Sequential Query Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "qid": 2,
+    "question": "Which SQL command is used to retrieve data from a database?",
+    "options": ["SELECT", "UPDATE", "INSERT", "DELETE"],
+    "answer": "SELECT"
+  },
+  {
+    "qid": 3,
+    "question": "Which SQL command is used to add new rows to a database table?",
+    "options": ["ADD", "INSERT", "UPDATE", "ALTER"],
+    "answer": "INSERT"
+  },
+  {
+    "qid": 4,
+    "question": "What is the purpose of the SQL GROUP BY clause?",
+    "options": ["To group rows based on a condition", "To order the result set", "To filter rows based on a condition", "To group rows based on one or more columns"],
+    "answer": "To group rows based on one or more columns"
+  },
+  {
+    "qid": 5,
+    "question": "Which SQL clause is used to filter rows in a SELECT statement?",
+    "options": ["WHERE", "GROUP BY", "HAVING", "ORDER BY"],
+    "answer": "WHERE"
+  },
+  {
+    "qid": 6,
+    "question": "Which SQL command is used to change data in a database?",
+    "options": ["ALTER", "DELETE", "UPDATE", "MODIFY"],
+    "answer": "UPDATE"
+  },
+  {
+    "qid": 7,
+    "question": "Which SQL command is used to delete rows from a database table?",
+    "options": ["DELETE", "DROP", "REMOVE", "ERASE"],
+    "answer": "DELETE"
+  },
+  {
+    "qid": 8,
+    "question": "What is the purpose of the SQL ORDER BY clause?",
+    "options": ["To filter rows based on a condition", "To group rows based on one or more columns", "To change the data in a database", "To sort the result set"],
+    "answer": "To sort the result set"
+  },
+  {
+    "qid": 9,
+    "question": "What is the difference between INNER JOIN and OUTER JOIN?",
+    "options": ["INNER JOIN combines rows from two tables, while OUTER JOIN only shows matching rows.", "INNER JOIN only shows matching rows, while OUTER JOIN combines rows from two tables.", "INNER JOIN is used for three or more tables, while OUTER JOIN is used for two tables.", "There is no difference between INNER JOIN and OUTER JOIN."],
+    "answer": "INNER JOIN combines rows from two tables, while OUTER JOIN only shows matching rows."
+  },
+  {
+    "qid": 10,
+    "question": "Which SQL function is used to calculate the average of a numeric column?",
+    "options": ["AVG()", "AVERAGE()", "MEAN()", "SUM()"],
+    "answer": "AVG()"
+  },
+  {
+    "qid": 11,
+    "question": "What does the SQL LIKE operator do?",
+    "options": ["It is used to join two or more tables.", "It is used to perform pattern matching on a string.", "It is used to sort the result set.", "It is used to group rows based on a condition."],
+    "answer": "It is used to perform pattern matching on a string."
+  },
+  {
+    "qid": 12,
+    "question": "Which SQL function is used to find the highest value in a column?",
+    "options": ["MAX()", "TOP()", "HIGHEST()", "LARGEST()"],
+    "answer": "MAX()"
+  },
+  {
+    "qid": 13,
+    "question": "What is a primary key in SQL?",
+    "options": ["A key that is used for sorting the result set.", "A key that uniquely identifies a row in a table.", "A key that is used to combine rows from two or more tables.", "A key that is used to filter rows based on a condition."],
+    "answer": "A key that uniquely identifies a row in a table."
+  },
+  {
+    "qid": 14,
+    "question": "Which SQL command is used to create a new database?",
+    "options": ["CREATE DATABASE", "NEW DATABASE", "ADD DATABASE", "MAKE DATABASE"],
+    "answer": "CREATE DATABASE"
+  },
+  {
+    "qid": 15,
+    "question": "What is the purpose of the SQL COUNT() function?",
+    "options": ["To count the total number of rows in a table.", "To count the number of distinct values in a column.", "To count the number of NULL values in a column.", "To count the number of non-NULL values in a column."],
+    "answer": "To count the total number of rows in a table."
+  },
+  {
+    "qid": 16,
+    "question": "Which SQL command is used to modify the structure of a database table?",
+    "options": ["UPDATE", "ALTER", "MODIFY", "CHANGE"],
+    "answer": "ALTER"
+  },
+  {
+    "qid": 17,
+    "question": "What does the SQL DISTINCT keyword do?",
+    "options": ["It is used to filter rows based on a condition.", "It is used to sort the result set.", "It is used to remove duplicate rows from the result set.", "It is used to group rows based on one or more columns."],
+    "answer": "It is used to remove duplicate rows from the result set."
+  },
+  {
+    "qid": 18,
+    "question": "Which SQL command is used to delete a database table?",
+    "options": ["DROP", "DELETE", "REMOVE", "ERASE"],
+    "answer": "DROP"
+  },
+  {
+    "qid": 19,
+    "question": "What is the purpose of the SQL HAVING clause?",
+    "options": ["To group rows based on a condition.", "To filter rows based on a condition after the GROUP BY clause.", "To sort the result set.", "To filter rows based on a condition before the GROUP BY clause."],
+    "answer": "To filter rows based on a condition after the GROUP BY clause."
+  },
+  {
+    "qid": 20,
+    "question": "Which SQL function is used to find the minimum value in a column?",
+    "options": ["MIN()", "SMALL()", "LEAST()", "SMALLEST()"],
+    "answer": "MIN()"
+  },
+  {
+    "qid": 21,
+    "question": "What is a foreign key in SQL?",
+    "options": ["A key that is used to filter rows based on a condition.", "A key that is used for sorting the result set.", "A key that uniquely identifies a row in a table.", "A key that establishes a link between two tables based on the values in a column."],
+    "answer": "A key that establishes a link between two tables based on the values in a column."
+  },
+  {
+    "qid": 22,
+    "question": "Which SQL command is used to create a new table in a database?",
+    "options": ["CREATE TABLE", "NEW TABLE", "ADD TABLE", "MAKE TABLE"],
+    "answer": "CREATE TABLE"
+  },
+  {
+    "qid": 23,
+    "question": "What is the purpose of the SQL BETWEEN operator?",
+    "options": ["It is used to perform pattern matching on a string.", "It is used to filter rows based on a range of values.", "It is used to combine rows from two or more tables.", "It is used to sort the result set."],
+    "answer": "It is used to filter rows based on a range of values."
+  },
+  {
+    "qid": 24,
+    "question": "Which SQL function is used to convert a value to uppercase?",
+    "options": ["UPPER()", "UPPERCASE()", "CONVERT()", "CASE()"],
+    "answer": "UPPER()"
+  },
+  {
+    "qid": 25,
+    "question": "What is the purpose of the SQL UNION operator?",
+    "options": ["To filter rows based on a condition.", "To combine rows from two or more tables.", "To sort the result set.", "To remove duplicate rows from the result set."],
+    "answer": "To combine rows from two or more tables."
+  },
+  {
+    "qid": 26,
+    "question": "Which SQL command is used to add a new column to an existing table?",
+    "options": ["ADD COLUMN", "NEW COLUMN", "CREATE COLUMN", "ALTER COLUMN"],
+    "answer": "ADD COLUMN"
+  },
+  {
+    "qid": 27,
+    "question": "What does the SQL AS keyword do?",
+    "options": ["It is used to rename a database.", "It is used to rename a table.", "It is used to rename a column or a table alias in the result set.", "It is used to create a new column in a table."],
+    "answer": "It is used to rename a column or a table alias in the result set."
+  },
+  {
+    "qid": 28,
+    "question": "Which SQL function is used to find the length of a string?",
+    "options": ["LENGTH()", "SIZE()", "LEN()", "CHARLENGTH()"],
+    "answer": "LENGTH()"
+  },
+  {
+    "qid": 29,
+    "question": "What is the purpose of the SQL JOIN clause?",
+    "options": ["To filter rows based on a condition.", "To sort the result set.", "To combine rows from two or more tables.", "To group rows based on one or more columns."],
+    "answer": "To combine rows from two or more tables."
+  },
+  {
+    "qid": 30,
+    "question": "Which SQL command is used to update the structure of a database table?",
+    "options": ["MODIFY", "UPDATE", "ALTER", "CHANGE"],
+    "answer": "ALTER"
+  },
+  {
+    "qid": 31,
+    "question": "What does the SQL IN operator do?",
+    "options": ["It is used to perform pattern matching on a string.", "It is used to filter rows based on a condition.", "It is used to combine rows from two or more tables.", "It is used to check if a value exists in a specified list of values."],
+    "answer": "It is used to check if a value exists in a specified list of values."
+  },
+  {
+    "qid": 32,
+    "question": "Which SQL function is used to find the total sum of a numeric column?",
+    "options": ["TOTAL()", "SUM()", "ADD()", "COUNT()"],
+    "answer": "SUM()"
+  },
+  {
+    "qid": 33,
+    "question": "What is the purpose of the SQL ORDER BY clause?",
+    "options": ["To filter rows based on a condition.", "To group rows based on one or more columns.", "To sort the result set.", "To combine rows from two or more tables."],
+    "answer": "To sort the result set."
+  },
+  {
+    "qid": 34,
+    "question": "Which SQL command is used to remove a database from the system?",
+    "options": ["REMOVE DATABASE", "DELETE DATABASE", "DROP DATABASE", "ERASE DATABASE"],
+    "answer": "DROP DATABASE"
+  },
+  {
+    "qid": 35,
+    "question": "What is the purpose of the SQL COUNT() function when used with GROUP BY?",
+    "options": ["To count the total number of rows in a table.", "To count the number of distinct values in a column.", "To count the number of NULL values in a column.", "To count the number of rows in each group after applying GROUP BY."],
+    "answer": "To count the number of rows in each group after applying GROUP BY."
+  },
+  {
+    "qid": 36,
+    "question": "Which SQL function is used to find the highest value in a column?",
+    "options": ["MAX()", "TOP()", "HIGHEST()", "LARGEST()"],
+    "answer": "MAX()"
+  },
+  {
+    "qid": 37,
+    "question": "What is a primary key in SQL?",
+    "options": ["A key that is used for sorting the result set.", "A key that uniquely identifies a row in a table.", "A key that is used to filter rows based on a condition.", "A key that is used to combine rows from two or more tables."],
+    "answer": "A key that uniquely identifies a row in a table."
+  },
+  {
+    "qid": 38,
+    "question": "Which SQL command is used to create a new table in a database?",
+    "options": ["CREATE TABLE", "NEW TABLE", "ADD TABLE", "MAKE TABLE"],
+    "answer": "CREATE TABLE"
+  },
+  {
+    "qid": 39,
+    "question": "What is the purpose of the SQL DISTINCT keyword?",
+    "options": ["To filter rows based on a condition.", "To sort the result set.", "To remove duplicate rows from the result set.", "To group rows based on one or more columns."],
+    "answer": "To remove duplicate rows from the result set."
+  },
+  {
+    "qid": 40,
+    "question": "Which SQL command is used to delete a database table?",
+    "options": ["DROP", "DELETE", "REMOVE", "ERASE"],
+    "answer": "DROP"
+  },
+  {
+    "qid": 41,
+    "question": "What is the purpose of the SQL HAVING clause?",
+    "options": ["To group rows based on a condition.", "To filter rows based on a condition after the GROUP BY clause.", "To sort the result set.", "To filter rows based on a condition before the GROUP BY clause."],
+    "answer": "To filter rows based on a condition after the GROUP BY clause."
+  },
+  {
+    "qid": 42,
+    "question": "Which SQL function is used to find the minimum value in a column?",
+    "options": ["MIN()", "SMALL()", "LEAST()", "SMALLEST()"],
+    "answer": "MIN()"
+  },
+  {
+    "qid": 43,
+    "question": "What is a foreign key in SQL?",
+    "options": ["A key that is used to filter rows based on a condition.", "A key that is used for sorting the result set.", "A key that uniquely identifies a row in a table.", "A key that establishes a link between two tables based on the values in a column."],
+    "answer": "A key that establishes a link between two tables based on the values in a column."
+  },
+  {
+    "qid": 44,
+    "question": "Which SQL command is used to add a new column to an existing table?",
+    "options": ["ADD COLUMN", "NEW COLUMN", "CREATE COLUMN", "ALTER COLUMN"],
+    "answer": "ADD COLUMN"
+  },
+  {
+    "qid": 45,
+    "question": "What does the SQL AS keyword do?",
+    "options": ["It is used to rename a database.", "It is used to rename a table.", "It is used to rename a column or a table alias in the result set.", "It is used to create a new column in a table."],
+    "answer": "It is used to rename a column or a table alias in the result set."
+  },
+  {
+    "qid": 46,
+    "question": "Which SQL function is used to convert a value to uppercase?",
+    "options": ["UPPER()", "UPPERCASE()", "CONVERT()", "CASE()"],
+    "answer": "UPPER()"
+  },
+  {
+    "qid": 47,
+    "question": "What is the purpose of the SQL UNION operator?",
+    "options": ["To filter rows based on a condition.", "To combine rows from two or more tables.", "To sort the result set.", "To remove duplicate rows from the result set."],
+    "answer": "To combine rows from two or more tables."
+  },
+  {
+    "qid": 48,
+    "question": "Which SQL command is used to update the structure of a database table?",
+    "options": ["MODIFY", "UPDATE", "ALTER", "CHANGE"],
+    "answer": "ALTER"
+  },
+  {
+    "qid": 49,
+    "question": "What does the SQL IN operator do?",
+    "options": ["It is used to perform pattern matching on a string.", "It is used to filter rows based on a condition.", "It is used to combine rows from two or more tables.", "It is used to check if a value exists in a specified list of values."],
+    "answer": "It is used to check if a value exists in a specified list of values."
+  },
+  {
+    "qid": 50,
+    "question": "Which SQL function is used to find the total sum of a numeric column?",
+    "options": ["TOTAL()", "SUM()", "ADD()", "COUNT()"],
+    "answer": "SUM()"
+  }
+]

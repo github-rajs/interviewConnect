@@ -1,0 +1,552 @@
+[
+  {
+    "qid": 51,
+    "question": "Which SQL keyword is used to combine the result sets of two or more SELECT queries?",
+    "options": [
+      "JOIN",
+      "UNION",
+      "CROSS JOIN",
+      "INTERSECT"
+    ],
+    "answer": "UNION"
+  },
+  {
+    "qid": 52,
+    "question": "In SQL, which function is used to calculate the average of a numeric column?",
+    "options": [
+      "AVG()",
+      "SUM()",
+      "COUNT()",
+      "AVERAGE()"
+    ],
+    "answer": "AVG()"
+  },
+  {
+    "qid": 53,
+    "question": "What is the purpose of the SQL HAVING clause?",
+    "options": [
+      "To filter rows before performing a GROUP BY operation",
+      "To filter rows after performing a GROUP BY operation",
+      "To sort the result set in ascending order",
+      "To join two or more tables"
+    ],
+    "answer": "To filter rows after performing a GROUP BY operation"
+  },
+  {
+    "qid": 54,
+    "question": "Which SQL JOIN type returns only the rows that have matching values in both tables?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "INNER JOIN"
+  },
+  {
+    "qid": 55,
+    "question": "In SQL, what is a subquery?",
+    "options": [
+      "A query with a GROUP BY clause",
+      "A query used in a WHERE or HAVING clause",
+      "A query that returns more than one result set",
+      "A query used to create a new table"
+    ],
+    "answer": "A query used in a WHERE or HAVING clause"
+  },
+  {
+    "qid": 56,
+    "question": "Which SQL keyword is used to add new rows to a table?",
+    "options": [
+      "UPDATE",
+      "INSERT",
+      "ADD",
+      "CREATE"
+    ],
+    "answer": "INSERT"
+  },
+  {
+    "qid": 57,
+    "question": "What is the purpose of the SQL CASE statement?",
+    "options": [
+      "To add a new column to a table",
+      "To perform conditional logic in a query",
+      "To sort the result set in descending order",
+      "To delete rows from a table"
+    ],
+    "answer": "To perform conditional logic in a query"
+  },
+  {
+    "qid": 58,
+    "question": "Which SQL function is used to find the maximum value in a column?",
+    "options": [
+      "MIN()",
+      "MAX()",
+      "TOTAL()",
+      "TOP()"
+    ],
+    "answer": "MAX()"
+  },
+  {
+    "qid": 59,
+    "question": "Which SQL constraint ensures that all values in a column are unique?",
+    "options": [
+      "PRIMARY KEY",
+      "UNIQUE",
+      "NOT NULL",
+      "CHECK"
+    ],
+    "answer": "UNIQUE"
+  },
+  {
+    "qid": 60,
+    "question": "In SQL, what is the purpose of the GROUP BY clause?",
+    "options": [
+      "To filter rows in the result set",
+      "To sort the result set in ascending order",
+      "To perform aggregate functions on groups of data",
+      "To join two or more tables"
+    ],
+    "answer": "To perform aggregate functions on groups of data"
+  },
+  {
+    "qid": 61,
+    "question": "Which SQL function is used to convert a string to uppercase?",
+    "options": [
+      "UPPER()",
+      "UPPERCASE()",
+      "CAPITALIZE()",
+      "CASE UPPER()"
+    ],
+    "answer": "UPPER()"
+  },
+  {
+    "qid": 62,
+    "question": "What is the purpose of the SQL ORDER BY clause?",
+    "options": [
+      "To filter rows in the result set",
+      "To sort the result set in ascending or descending order",
+      "To perform aggregate functions on groups of data",
+      "To join two or more tables"
+    ],
+    "answer": "To sort the result set in ascending or descending order"
+  },
+  {
+    "qid": 63,
+    "question": "Which SQL JOIN type returns all rows from the left table and the matching rows from the right table?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "LEFT JOIN"
+  },
+  {
+    "qid": 64,
+    "question": "In SQL, what is a self-join?",
+    "options": [
+      "A join between two tables in the same database",
+      "A join that uses the same table for both the left and right tables",
+      "A join that involves multiple conditions",
+      "A join that includes NULL values"
+    ],
+    "answer": "A join that uses the same table for both the left and right tables"
+  },
+  {
+    "qid": 65,
+    "question": "Which SQL function is used to count the number of rows in a table?",
+    "options": [
+      "COUNT()",
+      "TOTAL()",
+      "SUM()",
+      "NUM_ROWS()"
+    ],
+    "answer": "COUNT()"
+  },
+  {
+    "qid": 66,
+    "question": "What is the purpose of the SQL TRUNCATE statement?",
+    "options": [
+      "To delete specific rows from a table",
+      "To remove a column from a table",
+      "To remove all rows from a table quickly",
+      "To roll back a transaction"
+    ],
+    "answer": "To remove all rows from a table quickly"
+  },
+  {
+    "qid": 67,
+    "question": "Which SQL keyword is used to filter rows based on multiple conditions?",
+    "options": [
+      "WHERE",
+      "AND",
+      "OR",
+      "FILTER"
+    ],
+    "answer": "AND"
+  },
+  {
+    "qid": 68,
+    "question": "In SQL, what does the DISTINCT keyword do?",
+    "options": [
+      "It specifies that the result set should include only unique rows.",
+      "It orders the result set in descending order.",
+      "It groups rows based on a specified column.",
+      "It joins two or more tables together."
+    ],
+    "answer": "It specifies that the result set should include only unique rows."
+  },
+  {
+    "qid": 69,
+    "question": "Which SQL JOIN type returns all rows from both tables, filling in NULL values for non-matching rows?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "FULL OUTER JOIN"
+  },
+  {
+    "qid": 70,
+    "question": "What is the purpose of the SQL INDEX?",
+    "options": [
+      "To ensure that a column has no NULL values.",
+      "To provide additional security for a table.",
+      "To improve the speed of data retrieval on a table.",
+      "To enforce unique constraints on a column."
+    ],
+    "answer": "To improve the speed of data retrieval on a table."
+  },
+  {
+    "qid": 71,
+    "question": "Which SQL function is used to find the minimum value in a column?",
+    "options": [
+      "MIN()",
+      "MAX()",
+      "LEAST()",
+      "BOTTOM()"
+    ],
+    "answer": "MIN()"
+  },
+  {
+    "qid": 72,
+    "question": "In SQL, what is a correlated subquery?",
+    "options": [
+      "A subquery that refers to a column in the outer query",
+      "A subquery that includes a JOIN clause",
+      "A subquery that contains more than one SELECT statement",
+      "A subquery that returns multiple result sets"
+    ],
+    "answer": "A subquery that refers to a column in the outer query"
+  },
+  {
+    "qid": 73,
+    "question": "What is the purpose of the SQL COALESCE function?",
+    "options": [
+      "To combine two or more columns into one.",
+      "To convert data types from one form to another.",
+      "To replace NULL values with a specified value.",
+      "To remove duplicate rows from a table."
+    ],
+    "answer": "To replace NULL values with a specified value."
+  },
+  {
+    "qid": 74,
+    "question": "Which SQL function is used to find the current date and time?",
+    "options": [
+      "NOW()",
+      "CURRENT_TIMESTAMP()",
+      "GETDATE()",
+      "CURRENT_DATE()"
+    ],
+    "answer": "CURRENT_TIMESTAMP()"
+  },
+  {
+    "qid": 75,
+    "question": "In SQL, what is the difference between the WHERE and HAVING clauses?",
+    "options": [
+      "The WHERE clause is used for filtering rows, while the HAVING clause is used for filtering groups.",
+      "The WHERE clause is used for sorting the result set, while the HAVING clause is used for filtering rows.",
+      "The WHERE clause is used for joining tables, while the HAVING clause is used for filtering rows.",
+      "The WHERE clause is used for performing aggregate functions, while the HAVING clause is used for grouping data."
+    ],
+    "answer": "The WHERE clause is used for filtering rows, while the HAVING clause is used for filtering groups."
+  },
+  {
+    "qid": 76,
+    "question": "Which SQL function is used to concatenate two or more strings?",
+    "options": [
+      "CONCAT()",
+      "JOIN()",
+      "MERGE()",
+      "ADD()"
+    ],
+    "answer": "CONCAT()"
+  },
+  {
+    "qid": 77,
+    "question": "What is the purpose of the SQL ROLLUP operator?",
+    "options": [
+      "To delete all data from a table.",
+      "To group data based on multiple columns.",
+      "To sort the result set in ascending order.",
+      "To generate subtotals and grand totals for grouped data."
+    ],
+    "answer": "To generate subtotals and grand totals for grouped data."
+  },
+  {
+    "qid": 78,
+    "question": "Which SQL JOIN type returns all rows from the right table and the matching rows from the left table?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "RIGHT JOIN"
+  },
+  {
+    "qid": 79,
+    "question": "In SQL, what is the purpose of the LIMIT clause?",
+    "options": [
+      "To filter rows in the result set.",
+      "To sort the result set in ascending order.",
+      "To limit the number of rows returned by the query.",
+      "To perform aggregate functions on groups of data."
+    ],
+    "answer": "To limit the number of rows returned by the query."
+  },
+  {
+    "qid": 80,
+    "question": "Which SQL function is used to find the length of a string?",
+    "options": [
+      "LENGTH()",
+      "SIZE()",
+      "CHAR_LENGTH()",
+      "STRLEN()"
+    ],
+    "answer": "LENGTH()"
+  },
+  {
+    "qid": 81,
+    "question": "What is the purpose of the SQL VIEW?",
+    "options": [
+      "To enforce referential integrity between tables.",
+      "To create a virtual table based on the result of a SELECT query.",
+      "To define the structure and relationships of a database.",
+      "To index columns for faster data retrieval."
+    ],
+    "answer": "To create a virtual table based on the result of a SELECT query."
+  },
+  {
+    "qid": 82,
+    "question": "Which SQL keyword is used to delete rows from a table?",
+    "options": [
+      "REMOVE",
+      "ERASE",
+      "TRUNCATE",
+      "DELETE"
+    ],
+    "answer": "DELETE"
+  },
+  {
+    "qid": 83,
+    "question": "In SQL, what is the purpose of the EXISTS keyword?",
+    "options": [
+      "To check if a table is empty.",
+      "To verify if a column contains only unique values.",
+      "To check if a subquery returns any rows.",
+      "To determine if a database connection exists."
+    ],
+    "answer": "To check if a subquery returns any rows."
+  },
+  {
+    "qid": 84,
+    "question": "What is the purpose of the SQL COALESCE function?",
+    "options": [
+      "To combine multiple rows into one row.",
+      "To combine two or more columns into one.",
+      "To convert data types from one form to another.",
+      "To replace NULL values with a specified value."
+    ],
+    "answer": "To replace NULL values with a specified value."
+  },
+  {
+    "qid": 85,
+    "question": "Which SQL function is used to find the current date?",
+    "options": [
+      "NOW()",
+      "CURRENT_TIMESTAMP()",
+      "GETDATE()",
+      "CURRENT_DATE()"
+    ],
+    "answer": "CURRENT_DATE()"
+  },
+  {
+    "qid": 86,
+    "question": "In SQL, what is the purpose of the ORDER BY clause?",
+    "options": [
+      "To filter rows in the result set.",
+      "To sort the result set in ascending or descending order.",
+      "To perform aggregate functions on groups of data.",
+      "To join two or more tables."
+    ],
+    "answer": "To sort the result set in ascending or descending order."
+  },
+  {
+    "qid": 87,
+    "question": "Which SQL keyword is used to retrieve data from multiple tables simultaneously?",
+    "options": [
+      "CROSS APPLY",
+      "OUTER JOIN",
+      "CROSS JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "CROSS JOIN"
+  },
+  {
+    "qid": 88,
+    "question": "What is the purpose of the SQL ROW_NUMBER() function?",
+    "options": [
+      "To calculate the average of a numeric column.",
+      "To assign a unique row number to each row in the result set.",
+      "To count the number of rows in a table.",
+      "To concatenate two or more strings."
+    ],
+    "answer": "To assign a unique row number to each row in the result set."
+  },
+  {
+    "qid": 89,
+    "question": "Which SQL function is used to calculate the total of a numeric column?",
+    "options": [
+      "SUM()",
+      "TOTAL()",
+      "ADD()",
+      "COUNT()"
+    ],
+    "answer": "SUM()"
+  },
+  {
+    "qid": 90,
+    "question": "In SQL, what is the purpose of the GROUP BY clause?",
+    "options": [
+      "To filter rows in the result set",
+      "To sort the result set in ascending order",
+      "To perform aggregate functions on groups of data",
+      "To join two or more tables"
+    ],
+    "answer": "To perform aggregate functions on groups of data"
+  },
+  {
+    "qid": 91,
+    "question": "What is the purpose of the SQL ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW?",
+    "options": [
+      "To filter rows in the result set based on specific conditions.",
+      "To retrieve the total number of rows in a table.",
+      "To calculate cumulative values within a window frame.",
+      "To join two or more tables."
+    ],
+    "answer": "To calculate cumulative values within a window frame."
+  },
+  {
+    "qid": 92,
+    "question": "Which SQL keyword is used to remove duplicates from the result set?",
+    "options": [
+      "DISTINCT",
+      "UNIQUE",
+      "REMOVE_DUPLICATES",
+      "DUPLICATE"
+    ],
+    "answer": "DISTINCT"
+  },
+  {
+    "qid": 93,
+    "question": "In SQL, what is the purpose of the IS NULL operator?",
+    "options": [
+      "To check if a column contains only unique values.",
+      "To verify if a table is empty.",
+      "To check if a column contains NULL values.",
+      "To determine if a database connection exists."
+    ],
+    "answer": "To check if a column contains NULL values."
+  },
+  {
+    "qid": 94,
+    "question": "What is the purpose of the SQL COALESCE function?",
+    "options": [
+      "To combine multiple rows into one row.",
+      "To combine two or more columns into one.",
+      "To convert data types from one form to another.",
+      "To replace NULL values with a specified value."
+    ],
+    "answer": "To replace NULL values with a specified value."
+  },
+  {
+    "qid": 95,
+    "question": "Which SQL function is used to find the current date?",
+    "options": [
+      "NOW()",
+      "CURRENT_TIMESTAMP()",
+      "GETDATE()",
+      "CURRENT_DATE()"
+    ],
+    "answer": "CURRENT_DATE()"
+  },
+  {
+    "qid": 96,
+    "question": "In SQL, what is the purpose of the ORDER BY clause?",
+    "options": [
+      "To filter rows in the result set.",
+      "To sort the result set in ascending or descending order.",
+      "To perform aggregate functions on groups of data.",
+      "To join two or more tables."
+    ],
+    "answer": "To sort the result set in ascending or descending order."
+  },
+  {
+    "qid": 97,
+    "question": "Which SQL keyword is used to retrieve data from multiple tables simultaneously?",
+    "options": [
+      "CROSS APPLY",
+      "OUTER JOIN",
+      "CROSS JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "CROSS JOIN"
+  },
+  {
+    "qid": 98,
+    "question": "What is the purpose of the SQL ROW_NUMBER() function?",
+    "options": [
+      "To calculate the average of a numeric column.",
+      "To assign a unique row number to each row in the result set.",
+      "To count the number of rows in a table.",
+      "To concatenate two or more strings."
+    ],
+    "answer": "To assign a unique row number to each row in the result set."
+  },
+  {
+    "qid": 99,
+    "question": "Which SQL function is used to calculate the total of a numeric column?",
+    "options": [
+      "SUM()",
+      "TOTAL()",
+      "ADD()",
+      "COUNT()"
+    ],
+    "answer": "SUM()"
+  },
+  {
+    "qid": 100,
+    "question": "In SQL, what is the purpose of the GROUP BY clause?",
+    "options": [
+      "To filter rows in the result set",
+      "To sort the result set in ascending order",
+      "To perform aggregate functions on groups of data",
+      "To join two or more tables"
+    ],
+    "answer": "To perform aggregate functions on groups of data"
+  }
+]
